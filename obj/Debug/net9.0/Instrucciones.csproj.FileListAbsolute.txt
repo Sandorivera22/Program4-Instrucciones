@@ -1,0 +1,4 @@
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Debug\net9.0\Instrucciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Debug\net9.0\Instrucciones.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Debug\net9.0\Instrucciones.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Debug\net9.0\Instrucciones.csproj.CoreCompileInputs.cache

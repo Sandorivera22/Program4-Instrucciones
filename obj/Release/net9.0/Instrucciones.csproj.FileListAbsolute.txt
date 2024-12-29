@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\bin\Release\net9.0\Instrucciones.exe
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\bin\Release\net9.0\Instrucciones.deps.json
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\bin\Release\net9.0\Instrucciones.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\bin\Release\net9.0\Instrucciones.dll
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\bin\Release\net9.0\Instrucciones.pdb
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Release\net9.0\Instrucciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Release\net9.0\Instrucciones.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Release\net9.0\Instrucciones.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Release\net9.0\Instrucciones.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Release\net9.0\Instrucciones.dll
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Release\net9.0\refint\Instrucciones.dll
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Release\net9.0\Instrucciones.pdb
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Release\net9.0\Instrucciones.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Instrucciones\obj\Release\net9.0\ref\Instrucciones.dll
